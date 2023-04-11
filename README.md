@@ -8,6 +8,7 @@ Full Stack Web Developer
 *   ✉️  You can contact me at [manuelurrutimarquez@gmail.com](mailto:manuelurrutimarquez@gmail.com)
 *   🧠  I'm learning React and Typescript.
 *   🤝  I'm open to collaborating on Front-end Development.
+*   <a href="https://www.linkedin.com/in/manuel-urruti-b9ab69262/"> 📄 My site on Linkedin </a>
 *   <h2>Lenguages and tools</H2> 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
